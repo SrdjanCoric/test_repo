@@ -20,7 +20,7 @@ export default tseslint.config({sdkhsaladsadsakdhjskaljdsa;lkds;kldsal
     parserOptions: {
       project: ['./tsconfig.node.jssssa.dirname,
     },
-  },
+  },dsadsds
 })
 ```
 
