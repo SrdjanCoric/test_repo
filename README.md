@@ -6,7 +6,7 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
+adasd
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
@@ -15,8 +15,13 @@ If you are developing a production application, we recommend updating the config
 
 ```js
 export default tseslint.config({sdkhsaladsadsakdhjskaljdsa;lkds;kldsal
+<<<<<<< HEAD
   languageOptions: {asdasdsd
     // other options...sdasadsasdadadsadadasdsdsdsds
+=======
+  languageOptions: {
+    // other options...sdasadsaasdasssdsdsdsds
+>>>>>>> 8c782a1ce61a4c522f34593555d69e895504b637
     parserOptions: {
       project: ['./tsconfig.node.jssssa.dirname,
     },
