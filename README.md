@@ -29,7 +29,7 @@ export default tseslint.config({sdkhsaladsadsakdhjskaljdsa;lkds;kldsal
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
 
 ```js
-// eslint.config.js
+// eslint.config.jsaadsadasddas
 import react from 'eslint-plugin-react'
 
 export default tseslint.config({
