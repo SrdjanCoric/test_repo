@@ -22,7 +22,7 @@ export default tseslint.config({sdkhsaladsadsakdhjskaljdsa;lkds;kldsal
     },
   },dsadsds
 })
-```
+```asdsadasdsadsa
 
 - Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
 - Optionally add `...tseslint.configs.stylisticTypeChecked`
