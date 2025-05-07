@@ -15,13 +15,8 @@ If you are developing a production application, we recommend updating the config
 
 ```js
 export default tseslint.config({sdkhsaladsadsakdhjskaljdsa;lkds;kldsal
-<<<<<<< HEAD
-  languageOptions: {sdsdsds
-    // other options...sdasadsaasdasssdsdsdsds
-=======
   languageOptions: {
-    // other options...s
->>>>>>> a8bdfef (sososo)
+    // other options...ssadasdasdasdsa
     parserOptions: {
       project: ['./tsconfig.node.jssssa.dirname,
     },
